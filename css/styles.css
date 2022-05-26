@@ -100,3 +100,21 @@ h3 {
   padding-right: 2%;
   padding-bottom: 5%;
 }
+
+/* Pricing */
+#pricing {
+  text-align: center;
+  padding: 150px;
+}
+
+.price {
+  color: black;
+}
+
+.price-col {
+  padding: 2%;
+}
+.sign-up {
+  padding-left: 100px;
+  padding-right: 100px;
+}
