@@ -72,6 +72,9 @@ h3 {
   color: #ff4c68;
   padding-bottom: 1rem;
 }
+.feat-icon:hover {
+  color: #ff94a4;
+}
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
@@ -127,6 +130,44 @@ h3 {
 .sign-up {
   padding-left: 100px;
   padding-right: 100px;
+}
+
+/* ----------Footer--------*/
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  padding: 1%;
+}
+
+.bot3 {
+  color: white;
+  line-height: 1.5;
+  font-size: 2.5rem;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.foot-button {
+  margin: 0 10px;
+  margin-bottom: 5%;
+}
+
+.foot-s {
+  margin-left: 43%;
+  width: 15%;
+  padding: 1px;
+}
+
+.copyright {
+  margin: 5px;
+}
+.socials {
+  text-align: center;
+  padding: 5px;
 }
 
 @media (max-width: 1028px) {
