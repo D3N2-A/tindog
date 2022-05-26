@@ -11,6 +11,12 @@ h1 {
   line-height: 1.5;
   color: white;
 }
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
+}
 
 h3 {
   font-weight: bold;
@@ -64,4 +70,33 @@ h3 {
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
+}
+
+/* Testimonial */
+
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+}
+.testimonial-photo {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press */
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.press-photo {
+  width: 17%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 5%;
 }
