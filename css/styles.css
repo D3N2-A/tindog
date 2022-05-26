@@ -12,6 +12,10 @@ h1 {
   color: white;
 }
 
+h3 {
+  font-weight: bold;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -45,4 +49,19 @@ h1 {
 .mockup {
   width: 90%;
   transform: rotate(25deg);
+}
+
+/* Features */
+
+#features {
+  text-align: center;
+  margin: 10% 0;
+}
+.feat-icon {
+  color: #ff4c68;
+  padding-bottom: 1rem;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
 }
